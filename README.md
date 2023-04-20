@@ -5,8 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aicl2985.aiclcybertest)
 
 <div style="display:flex">
-  ![cybersec](https://user-images.githubusercontent.com/68441369/233506522-69fc8852-d624-4e48-8970-e2f0f175e9ec.gif)
-  <img align="right" width="380" src="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6">
+  <img align="right" width="380" src="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6](https://user-images.githubusercontent.com/68441369/233506522-69fc8852-d624-4e48-8970-e2f0f175e9ec.gif)">
   </p>
 
 - 🔭 I am currently working on <b>improving online security</b>.
