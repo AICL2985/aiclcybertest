@@ -48,19 +48,25 @@
 
 <h2>🎖️ Certs</h2>
 
+<div style="display:flex">
+  <img align="right" width="170" src="">
+  </p>
+
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> :mailbox: Hit me up</h2>
+<h2> 👍 How to reach me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
-[![Outlook Badge](https://img.shields.io/badge/-abraham.cureno-b5b2b1?style=flat&labelColor=b5b2b1&logo=microsoftoutlook&logoColor=black)](mailto:abraham.cureno@hotmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-abraham.cureno-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abraham.cureno@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Abraham_Cureno-30d60b?style=flat&labelColor=30d60b&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5215574301159&text&type=phone_number&app_absent=0)
 
+<h2> 📬 Hit me up</h2>
+
+- **abraham.cureno@hotmail.com**
+- **abraham.cureno@gmail.com**
 
 
 
