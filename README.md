@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aicl2985.aiclcybertest)
 
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6">
+  <img align="right" width="380" src="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6">
   </p>
 
 - 🔭 I am currently working on <b>improving online security</b>.
