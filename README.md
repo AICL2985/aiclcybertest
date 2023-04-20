@@ -29,19 +29,9 @@
 <h2> :mailbox: Contáctame:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
-[![Outlook Badge](https://img.shields.io/badge/-abraham.cureno-c0392b?style=flat&labelColor=c0392b&logo=outlook&logoColor=white)](mailto:abraham.cureno@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-abraham.cureno-b5b2b1?style=flat&labelColor=b5b2b1&logo=microsoftoutlook&logoColor=black)](mailto:abraham.cureno@hotmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-abraham.cureno-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abraham.cureno@gmail.com)
-
-[<img align="left" alt="AbrahamCureno | Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][outlook]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[outlook]: mailto:abraham.cureno@hotmail.com
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[![Whatsapp Badge](https://img.shields.io/badge/-Abraham_Cureno-30d60b?style=flat&labelColor=30d60b&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5215574301159&text&type=phone_number&app_absent=0)
 
 
 #### Visitas al perfil 
@@ -52,6 +42,11 @@
 <summary>
   Más sobre mí...
 </summary>
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/abrahamisraelcurenolopez)
+</div>
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
