@@ -43,6 +43,19 @@
   Más sobre mí...
 </summary>
 
+### 🔥 Apasionado 💡Innovador, Creativo
+
+- 🔭 Estoy trabajando actualmente en la mejora de la seguridad en línea.
+- 🌱 Estoy aprendiendo sobre la seguridad de la información y la protección de la privacidad.
+- 👯 Estoy buscando colaborar con otros profesionales de la ciberseguridad.
+- 🤔 Estoy buscando ayuda con el desarrollo de herramientas y software de seguridad.
+- 💬 Pregúntame sobre ciberseguridad, seguridad de la información y protección de la privacidad.
+- 😄 Mi pronombre es: 'él'
+- ⚡ Fun fact: Soy un fan de la ciencia ficción.
+
+---
+
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/abrahamisraelcurenolopez)
 </div>
