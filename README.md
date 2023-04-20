@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aicl2985.aiclcybertest)
 
 <div style="display:flex">
-  <img align="right" width="200" src="https://user-images.githubusercontent.com/68441369/233506522-69fc8852-d624-4e48-8970-e2f0f175e9ec.gif">
+  <img align="right" width="170" src="https://user-images.githubusercontent.com/68441369/233506522-69fc8852-d624-4e48-8970-e2f0f175e9ec.gif">
   </p>
 
 - 🔭 I am currently working on <b>improving online security</b>.
