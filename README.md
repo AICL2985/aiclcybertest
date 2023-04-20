@@ -16,9 +16,9 @@
 - 😄 Pronouns: <b>'he/him'</b>
 - ⚡ Fun fact: I'm a fan of <b>science fiction and tacos</b>.
 
-<img src="https://github-readme-stats.vercel.app/api?username=AICL2985&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="AICL2985" />
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=AICL2985&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="AICL2985" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AICL2985&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
+<img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=AICL2985&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
 <h2> 🕵🏻‍♂️💻 Cybersecurity projects</h2>
 
