@@ -49,7 +49,7 @@
 <h2>🎖️ Certs</h2>
 
 <div style="display:flex">
-  <img align="right" width="170" src="">
+  <img align="right" width="120" src="https://user-images.githubusercontent.com/68441369/233510209-a8a61026-2342-4767-bcf9-d24fba603000.gif">
   </p>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
