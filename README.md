@@ -1,6 +1,22 @@
-<h1>¡Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Soy Abraham Cureño 🛡️📡</h1>
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Abraham Cureño</h1>
 
-<h2> 🕵🏻‍♂️💻 Cybersecurity projects:</h2>
+<h3 align="center">Self-taught cybersecurity analyst🔍</h3>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aicl2985.aiclcybertest)
+
+- 🔭 I am currently working on <b>improving online security</b>.
+- 🌱 I am learning about <b>governance, vulnerability management, PCI DSS and privacy protection</b>.
+- 👯 I am looking to <b>collaborate with other cybersecurity professionals</b>.
+- 🤔 I am looking for help with the <b>development of security tools and software</b>.
+- 💬 Ask me about <b>VMDR, information security and privacy protection</b>.
+- 😄 Pronouns: <b>'he/him'</b>
+- ⚡ Fun fact: I'm a fan of <b>science fiction and tacos</b>.
+
+<img src="https://github-readme-stats.vercel.app/api?username=AICL2985&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="BlackDagger007" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AICL2985&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
+
+<h2> 🕵🏻‍♂️💻 Cybersecurity projects</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,7 +34,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>🎖️ Certificaciones</h2>
+<h2>🎖️ Certs</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -26,7 +42,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> :mailbox: Contáctame:</h2>
+<h2> :mailbox: Hit me up</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
 [![Outlook Badge](https://img.shields.io/badge/-abraham.cureno-b5b2b1?style=flat&labelColor=b5b2b1&logo=microsoftoutlook&logoColor=black)](mailto:abraham.cureno@hotmail.com)
@@ -34,44 +50,15 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Abraham_Cureno-30d60b?style=flat&labelColor=30d60b&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5215574301159&text&type=phone_number&app_absent=0)
 
 
-#### Visitas al perfil 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aicl2985.aiclcybertest)
+
+
 
 <details>
 <summary>
-  Más sobre mí...
+  Want to know more about me?
 </summary>
-
-### 🔥 Apasionado 💡Innovador, Creativo
-
-- 🔭 Estoy trabajando actualmente en la mejora de la seguridad en línea.
-- 🌱 Estoy aprendiendo sobre la seguridad de la información y la protección de la privacidad.
-- 👯 Estoy buscando colaborar con otros profesionales de la ciberseguridad.
-- 🤔 Estoy buscando ayuda con el desarrollo de herramientas y software de seguridad.
-- 💬 Pregúntame sobre ciberseguridad, seguridad de la información y protección de la privacidad.
-- 😄 Mi pronombre es: 'él'
-- ⚡ Fun fact: Soy un fan de la ciencia ficción.
-
----
-
-
+  
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/abrahamisraelcurenolopez)
 </div>
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
