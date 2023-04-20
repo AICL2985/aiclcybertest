@@ -26,7 +26,11 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Contáctame:</h2>
+<h2> :mailbox: Contáctame:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
+[![Outlook Badge](https://img.shields.io/badge/-abraham.cureno-c0392b?style=flat&labelColor=c0392b&logo=outlook&logoColor=white)](mailto:abraham.cureno@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-abraham.cureno-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abraham.cureno@gmail.com)
 
 [<img align="left" alt="AbrahamCureno | Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][outlook]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
