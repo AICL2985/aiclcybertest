@@ -83,3 +83,8 @@
 
  - <b>Watch my contribution graph being eaten by a snake. 😱🐍</b>
 ![snake gif](https://github.com/AICL2985/AICL2985/blob/output/github-contribution-grid-snake.svg)
+  
+ - <b>Also a huge fan of Star Wars. 🛸👾 </b> 
+<img align="right" width="800" src="https://user-images.githubusercontent.com/68441369/233731063-cf767e13-aa23-460b-9060-e5d2750be182.gif" />
+
+  
