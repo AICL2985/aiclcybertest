@@ -4,7 +4,7 @@
 
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aicl2985.aicl2985)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAICL2985%2FAICL2985.git&label=VISITORS&countColor=%23263759&style=plastic)
 
 <div style="display:flex">
   <img align="right" width="170" src="https://user-images.githubusercontent.com/68441369/233506522-69fc8852-d624-4e48-8970-e2f0f175e9ec.gif">
