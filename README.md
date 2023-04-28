@@ -60,7 +60,7 @@
 
 <h2> 👍 How to reach me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Abraham_Israel_Cureño_López-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrahamcureno/) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Abraham_Cureno-30d60b?style=flat&labelColor=30d60b&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5215574301159&text&type=phone_number&app_absent=0)
 
 <h2> 📬 Hit me up</h2>
