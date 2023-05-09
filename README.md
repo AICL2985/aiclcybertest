@@ -38,9 +38,9 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/AICL2985/FIM-Powershell.git)
-  - [IDS-IPS-Powershell](https://github.com/AICL2985/IDS-IPS-Powershell.git)
-  - [PwdMgr-Powershell](https://github.com/AICL2985/PwdMgr-Powershell.git)
+  - [File Integrity Monitor](https://github.com/AICL2985/FIM-Powershell.git)
+  - [Intrusion Detection System](https://github.com/AICL2985/IDS-IPS-Powershell.git)
+  - [Password Manager](https://github.com/AICL2985/PwdMgr-Powershell.git)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
